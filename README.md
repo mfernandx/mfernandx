@@ -12,11 +12,11 @@
 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=mfernandx&show_icons=true&bg_color=fff0f6&title_color=e64980&text_color=ad1457&icon_color=ff85a2&border_color=ffb3c6"
-  width="500"
+  width="480"
 />
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandx&layout=compact&bg_color=fff0f6&title_color=e64980&text_color=ad1457&icon_color=ff85a2&border_color=ffb3c6" 
-  width="380"
+  width="360"
 />
 
 
