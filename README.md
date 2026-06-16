@@ -1,4 +1,5 @@
-<img width="1080" height="1350" alt="welcome-github" src="https://github.com/user-attachments/assets/53701aca-88ff-4d42-b76d-6b9a4c301bc6" />
+<img width="1080" height="1280" alt="header-readme-myprofile" src="https://github.com/user-attachments/assets/5650d292-5455-4300-8f90-267d793722f7" />
+
 
 ---
 
@@ -11,11 +12,11 @@
 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=mfernandx&show_icons=true&bg_color=fff0f6&title_color=e64980&text_color=ad1457&icon_color=ff85a2&border_color=ffb3c6"
-  width="510"
+  width="500"
 />
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandx&layout=compact&bg_color=fff0f6&title_color=e64980&text_color=ad1457&icon_color=ff85a2&border_color=ffb3c6" 
-  width="390"
+  width="380"
 />
 
 
@@ -31,7 +32,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 
-  <a href="www.linkedin.com/in/maria-fernanda-santos-mendes-39b151219" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-fernanda-santos-mendes-39b151219" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
